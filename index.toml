@@ -1,0 +1,16 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "f407238ae37effcd669f828b80a7246e805bc099b4848cd550b1d2d428fea78b"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "448c3e93e0cd1231c129313a82fa2820644f4ebdaa78346bb283dc29acbe9976"
+metafile = true

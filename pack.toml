@@ -1,0 +1,13 @@
+name = "Test Modpack"
+author = "ashcraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dee45d2340dd704c2e9f24e435b9f4664480581c944e244451a56ca992d4c5a3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"
