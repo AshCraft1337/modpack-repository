@@ -454,11 +454,6 @@ hash = "e6705ba58ef6960958ac7f175d8c5834d3b7a13f17837c5eea6b549185bc13cd"
 metafile = true
 
 [[files]]
-file = "mods/faewulfs-lib.pw.toml"
-hash = "a95418ab739c2d57dd4bfd86fda0c371f7a6c25ecb40487da0928abc6889eb18"
-metafile = true
-
-[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "107e17092cb624d106bddc63f2165f5e0461ca910e365a864bbae4c4f0de539d"
 metafile = true
@@ -817,11 +812,6 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
-file = "mods/piggyback.pw.toml"
-hash = "3a680ea2286f143ed67ddba54aa68a8f67e945d974816e4cd123b45895d6bb64"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -1029,11 +1019,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1416c0bbab07aab5ca91b2fae8a8a6cfc48db78687c500b292885c42eb1b004c"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "9cc7154fe07de6f4a179487997575c257d5ac871de170106fe4b65e054bb5b1b"
 metafile = true
 
 [[files]]
