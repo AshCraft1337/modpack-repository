@@ -5,10 +5,6 @@ file = "datapacks/AllTheMons Release 2.4.zip"
 hash = "0e1a71f6d52c3553cb56b6a83a21128710f522f0db5ead0618a9fa6a034ae194"
 
 [[files]]
-file = "mods/Generated Image September 09, 2025 - 2_45PM.png"
-hash = "99df9244c23caccf0771c7ab2bcc241538bd62829109ef909283966b5bce70e0"
-
-[[files]]
 file = "mods/accessories-cc-layer.pw.toml"
 hash = "c923f6539fabaadf6234b8346111069baa53fcc95d2445a7eebc50cb3751c25d"
 metafile = true
@@ -701,10 +697,6 @@ metafile = true
 file = "mods/mech-trowel.pw.toml"
 hash = "f535472578fb5ec20b8bcb01d49fdd2c29628617274728cf7f7213bb27fdede8"
 metafile = true
-
-[[files]]
-file = "mods/metallica_mania.png"
-hash = "fdfad6209b9406dffa8b7d9fb7845960ad9a86b977451e6238e1f2139dd90f40"
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
