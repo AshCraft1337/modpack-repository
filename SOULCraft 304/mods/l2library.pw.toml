@@ -1,0 +1,13 @@
+name = "L2 Library"
+filename = "l2library-3.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4a8cc2e3f46392ac8a2cfb284a009c4fa62ff5e6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6820079
+project-id = 620203

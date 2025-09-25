@@ -1,0 +1,11 @@
+name = "SoulCraft 304"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "41b3e147231e1612afb12ba7d6ef9b12267d55697de8d5c77e8f6fc14ce7784d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.205"

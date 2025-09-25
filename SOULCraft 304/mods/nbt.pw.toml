@@ -1,0 +1,13 @@
+name = "Notable Bubble Text (NBT)"
+filename = "NotableBubbleText-1.21.1-4.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94f35da9181dbd5b443111561df16c341377e97b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6005891
+project-id = 938890

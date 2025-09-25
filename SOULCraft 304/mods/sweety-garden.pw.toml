@@ -1,0 +1,13 @@
+name = "Sweety's Garden"
+filename = "sweety_garden-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "64dbfa5d3083cb196f48f7a78c99098aa82bccea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6667063
+project-id = 1276710

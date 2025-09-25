@@ -1,0 +1,13 @@
+name = "Fumo Fumo"
+filename = "fumofumo-1.0.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80445cd72d3f805f95d98679e69a5bc494ef9393"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6909581
+project-id = 977808

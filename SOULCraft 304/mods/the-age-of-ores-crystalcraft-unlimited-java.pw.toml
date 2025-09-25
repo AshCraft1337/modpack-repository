@@ -1,0 +1,13 @@
+name = "Crystalcraft Unlimited Java edition (The Age of Ores)"
+filename = "Crystalcraft Unlimited 1.21.1 Stormheart Update.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6027af07f5c0797d149c2e616ac4208cce2e719f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6876216
+project-id = 558675
