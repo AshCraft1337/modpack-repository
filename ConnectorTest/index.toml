@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods/atlas-core-1.21.1-1.1.2.beta.3.jar"
-hash = "93113c7ae87672a947e712f0b46c7642aacbcfe9940ec1be472fe096a8841570"
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -15,16 +11,6 @@ hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "179ec97bb6d278f2012c725fdfab2c5b00adb529e4f720587ce6c3409aaa572f"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "46e93749da629d87becf25d9db950ce2a41dc9e996e4c1af18a63ee20ea4ba86"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "6b3f722168fa57e23fca5441d9b74a11194d9252625d6bf0898c4d212f99380a"
 metafile = true
@@ -32,14 +18,4 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "85a2a7d20c6e6bba9f2dceb2673e5ca772c914f6fd98574f74bb9873576a83eb"
-metafile = true
-
-[[files]]
-file = "mods/pandoras-box.pw.toml"
-hash = "56c4635f63fe95ba9e215d0335853821a78ca29c790fa89d3462febfa436451e"
-metafile = true
-
-[[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "29303e55edfda01df3eb2bc7cdb90d505568d4c5996600473e559660ace2e2f4"
 metafile = true
