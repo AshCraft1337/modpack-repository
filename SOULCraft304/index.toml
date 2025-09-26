@@ -140,11 +140,6 @@ hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
 
 [[files]]
-file = "mods/clumps.pw.toml"
-hash = "2e6a2f8c477128a76ef059dfef7ca8a1befa2ae0ebe7ae2171e716f0c905cd00"
-metafile = true
-
-[[files]]
 file = "mods/coastal-waves.pw.toml"
 hash = "184a5eb293a6eef159e1dd871c486df85bc2597051775366940cc7510971c62a"
 metafile = true
