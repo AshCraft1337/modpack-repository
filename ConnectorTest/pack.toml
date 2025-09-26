@@ -1,0 +1,11 @@
+name = "connector-test-modpack"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2c30f03f30e44178cb4f5321e574f2b90c2fac78be4a9280d748d66afb14ddfc"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.209"
