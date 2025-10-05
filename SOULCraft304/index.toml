@@ -824,11 +824,6 @@ hash = "8b548c9e6020160976a190188c1895ce2e99f47025d5bb6656a79866891b91ec"
 metafile = true
 
 [[files]]
-file = "mods/pikimon.pw.toml"
-hash = "9e7344f551013e102ab045e43d5cf4c44bf7462d600677d297bc5d57f77df0d4"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -996,11 +991,6 @@ metafile = true
 [[files]]
 file = "mods/the-age-of-ores-crystalcraft-unlimited-java.pw.toml"
 hash = "ed797ae7859d33ed20826d7a0926dd4e3fc5a930df81bed9cf9b3e523efb1189"
-metafile = true
-
-[[files]]
-file = "mods/the-dark-horrors-of-minecraft-2.pw.toml"
-hash = "148e74dd86ebcaf7b09cb498fa02e65d061ff8ce105daf3d2a870f6b237016c4"
 metafile = true
 
 [[files]]
