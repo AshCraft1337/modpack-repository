@@ -210,6 +210,11 @@ hash = "c26e7e111042f57fc7bb59baaa21fae93d56057fe00618a24b59c0141be24194"
 metafile = true
 
 [[files]]
+file = "mods/cobbreeding.pw.toml"
+hash = "7d4a4a7e1948d6377ad30143570b5123fccf3696b81003280cfa6de9e906c2a8"
+metafile = true
+
+[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "5f20efe6d4037900a75b33a3a08cbacc4961d93d1ed60642eeb749b92e53297a"
 metafile = true
