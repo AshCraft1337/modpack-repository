@@ -1,0 +1,13 @@
+name = "The Witch (Intense Horror)"
+filename = "RedEyedWitch-1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "394e33e3d2d83e9c80aa6d5706ab23d45ccc0ae0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6612967
+project-id = 1279914

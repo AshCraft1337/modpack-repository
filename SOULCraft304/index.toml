@@ -255,6 +255,11 @@ hash = "e8562dd1a88ce84401100e45dbe9edcb8a04b67922718832acb1d1cc6e759b65"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "fbdd2d7171e9100806bd5db5f10240e7609550efeba69796e8765fbefaeed1fd"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
@@ -350,6 +355,16 @@ hash = "ae137cb3ffacb61157a213d9a53ab36b72074279b81bdd79958b3636a86ceaaf"
 metafile = true
 
 [[files]]
+file = "mods/dark-horrors-of-minecraft.pw.toml"
+hash = "42a3696b84e9528246ceeb37c419f548448b2c4d62824937b6d4d075381d5926"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "7726941d1b3390e710cb37980ed9ad00d680cba6bbc8b5e850bdaae72ac62b5d"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
@@ -402,6 +417,11 @@ metafile = true
 [[files]]
 file = "mods/endremastered.pw.toml"
 hash = "d79818e801019eeaedc8a3188d0d1ed778c9d261c6fdda12c20470e5b07b8994"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "e91e7f2228f7f669f4f835b4e787bd2e7dfe7541f60057b813412be9be794365"
 metafile = true
 
 [[files]]
@@ -799,6 +819,11 @@ hash = "8b548c9e6020160976a190188c1895ce2e99f47025d5bb6656a79866891b91ec"
 metafile = true
 
 [[files]]
+file = "mods/pikimon.pw.toml"
+hash = "9e7344f551013e102ab045e43d5cf4c44bf7462d600677d297bc5d57f77df0d4"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -969,6 +994,11 @@ hash = "ed797ae7859d33ed20826d7a0926dd4e3fc5a930df81bed9cf9b3e523efb1189"
 metafile = true
 
 [[files]]
+file = "mods/the-witch-intense-horror.pw.toml"
+hash = "cf27eb0b19c2f513aa400c3177adf91432b2491625893bbc9fda8ea6777c5ed7"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "b83b733a3cc6d0e6b08d4bcb27954914ef0f820d71c7ac94d33171cfb2f717ae"
 metafile = true
@@ -1046,4 +1076,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
 hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
+metafile = true
+
+[[files]]
+file = "mods/zoniex.pw.toml"
+hash = "320439675f8678076ee4292a9c33288f7b72c0cd1104dcee41ae813dde6d751a"
 metafile = true
