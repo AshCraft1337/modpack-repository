@@ -360,11 +360,6 @@ hash = "ae137cb3ffacb61157a213d9a53ab36b72074279b81bdd79958b3636a86ceaaf"
 metafile = true
 
 [[files]]
-file = "mods/dark-horrors-of-minecraft.pw.toml"
-hash = "42a3696b84e9528246ceeb37c419f548448b2c4d62824937b6d4d075381d5926"
-metafile = true
-
-[[files]]
 file = "mods/data-anchor.pw.toml"
 hash = "7726941d1b3390e710cb37980ed9ad00d680cba6bbc8b5e850bdaae72ac62b5d"
 metafile = true
