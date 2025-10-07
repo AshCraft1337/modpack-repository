@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-dragons-plus.pw.toml"
-hash = "90f38f6a4539b7f69be95865e409157605e7aad6d3a7f673b84f552caec3ccd1"
+hash = "338646334365d6afc5161219c7134f21e41af1af8fd5807f1fa78d1d356437e6"
 metafile = true
 
 [[files]]
@@ -730,7 +730,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "6d41fd7a35171d8636eae84079da9c523189fc081821ed91b0458b9cc74958d4"
+hash = "502e5fab2bff5f42daefd72193a44c9dfcc2dab4d72349991b7bc33602e0b50e"
 metafile = true
 
 [[files]]
