@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "d225f436d245791b859fba618e997ef5741ef5fc5b7ed4e557b5331d52dcb31d"
+hash = "00dca927df4b5ab9eabb16150192d5519136011d2ae82a2ab72cef77fbaadbea"
 metafile = true
 
 [[files]]
@@ -980,7 +980,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "eb2afd63362317347778b495d84e68b18869d69a937bbb4a142c416f53fe8c16"
+hash = "8f857c83c1097e6a0538f71979fb5271f94299a87cbdc68d2a197b57fc101970"
 metafile = true
 
 [[files]]
