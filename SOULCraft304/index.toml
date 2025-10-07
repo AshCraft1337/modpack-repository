@@ -994,11 +994,6 @@ hash = "ed797ae7859d33ed20826d7a0926dd4e3fc5a930df81bed9cf9b3e523efb1189"
 metafile = true
 
 [[files]]
-file = "mods/the-witch-intense-horror.pw.toml"
-hash = "cf27eb0b19c2f513aa400c3177adf91432b2491625893bbc9fda8ea6777c5ed7"
-metafile = true
-
-[[files]]
 file = "mods/titanium.pw.toml"
 hash = "b83b733a3cc6d0e6b08d4bcb27954914ef0f820d71c7ac94d33171cfb2f717ae"
 metafile = true
