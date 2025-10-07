@@ -719,11 +719,6 @@ hash = "a6bc54d1bb2792a2a3d8f3873146aeef6a422d43b773cecb1137a74e70f91a2c"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-quality-of-life.pw.toml"
-hash = "44148f05e2df6d75dd68a7df2e08bfc9828fb8aa302beafb2bb81a6ff11d3ec0"
-metafile = true
-
-[[files]]
 file = "mods/minecolonies-tweaks.pw.toml"
 hash = "698287e913215f26dc7300df2a1fc0365300c81366a94f20aae9c8da5d9281b2"
 metafile = true
