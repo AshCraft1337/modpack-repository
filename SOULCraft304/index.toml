@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-integrated-farming.pw.toml"
-hash = "e2a194ae67437c92a708f6e548384349f700d5f52249c4f479383cdb3f10b8a4"
+hash = "dc581b6398929ac17e1ba805ed36b9a5410afdded0bae36443101801b01b5760"
 metafile = true
 
 [[files]]
@@ -714,6 +714,21 @@ hash = "f535472578fb5ec20b8bcb01d49fdd2c29628617274728cf7f7213bb27fdede8"
 metafile = true
 
 [[files]]
+file = "mods/minecolonies-compatibility.pw.toml"
+hash = "a6bc54d1bb2792a2a3d8f3873146aeef6a422d43b773cecb1137a74e70f91a2c"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-quality-of-life.pw.toml"
+hash = "44148f05e2df6d75dd68a7df2e08bfc9828fb8aa302beafb2bb81a6ff11d3ec0"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies-tweaks.pw.toml"
+hash = "698287e913215f26dc7300df2a1fc0365300c81366a94f20aae9c8da5d9281b2"
+metafile = true
+
+[[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "6d41fd7a35171d8636eae84079da9c523189fc081821ed91b0458b9cc74958d4"
 metafile = true
@@ -731,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/modulargolems.pw.toml"
 hash = "0d91deecad08470ff066b4ae66b6f83919638787106437df584f27d7bed4985c"
+metafile = true
+
+[[files]]
+file = "mods/more-villagers-re-employed.pw.toml"
+hash = "729c7821919b9e17d83cbf8b8c59b6107527d4b5e2e5cbb1608fe2aee458f872"
 metafile = true
 
 [[files]]
