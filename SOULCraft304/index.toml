@@ -405,6 +405,11 @@ hash = "8a05bf93c96780dbd5974d85b1c209db17780bff3084d0ce1aa028f66306c9a9"
 metafile = true
 
 [[files]]
+file = "mods/effortless-building.pw.toml"
+hash = "9eed5211ec173caa872706cd0d1bd0b799826059bb9ba078a52156d78f13e0a3"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "32078c39569bbb4b33d2d86a09cfc18a9f5b63a11d0ba2b186fd07341e422c92"
 metafile = true
