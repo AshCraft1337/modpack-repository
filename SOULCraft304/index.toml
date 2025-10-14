@@ -400,11 +400,6 @@ hash = "541520814421d829976fbb2162e7a195b18e9d82ed3b3c8dc9c7fbc50b2cb491"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "8a05bf93c96780dbd5974d85b1c209db17780bff3084d0ce1aa028f66306c9a9"
-metafile = true
-
-[[files]]
 file = "mods/effortless-building.pw.toml"
 hash = "9eed5211ec173caa872706cd0d1bd0b799826059bb9ba078a52156d78f13e0a3"
 metafile = true
