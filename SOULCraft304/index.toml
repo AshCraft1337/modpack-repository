@@ -60,6 +60,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/arphex.pw.toml"
+hash = "61997a52706d7e4a9a4775ded386c5963be9e3d6cdce2087efc31b96a78a9ab7"
+metafile = true
+
+[[files]]
 file = "mods/atlas-core.pw.toml"
 hash = "32fc8e625ba37798c6a205c320a986a8264160fb7f74ab3af2b071a32f2c12c7"
 metafile = true
@@ -729,6 +734,11 @@ hash = "8f0221e48c6c9e950de622cc2c75e77829c48cea86bfc4a276c69b405a7fd085"
 metafile = true
 
 [[files]]
+file = "mods/mobs-of-mythology.pw.toml"
+hash = "67eba924d74910e7db18a292ac7468bcbccd8b7aba900121048d9d3cbe31cd03"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
@@ -736,6 +746,11 @@ metafile = true
 [[files]]
 file = "mods/modulargolems.pw.toml"
 hash = "0d91deecad08470ff066b4ae66b6f83919638787106437df584f27d7bed4985c"
+metafile = true
+
+[[files]]
+file = "mods/monster-plus.pw.toml"
+hash = "6414dc27042681277c29b877ff54567b500a0e520bcc9e589a8e25f5163ec328"
 metafile = true
 
 [[files]]
@@ -931,6 +946,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "0218c576d635d5d514f96f981f627932e752de48ef794e6817da1872e92eead0"
+metafile = true
+
+[[files]]
+file = "mods/smartbrainlib.pw.toml"
+hash = "1a610a4a75169fbebeece88a8e611fa0ad432b8661754a519166b23a6d643e36"
 metafile = true
 
 [[files]]
