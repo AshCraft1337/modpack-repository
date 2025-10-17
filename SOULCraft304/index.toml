@@ -739,6 +739,11 @@ hash = "67eba924d74910e7db18a292ac7468bcbccd8b7aba900121048d9d3cbe31cd03"
 metafile = true
 
 [[files]]
+file = "mods/mod-primal.pw.toml"
+hash = "bfcc876ad841b13a62d98d8e130bf3dca8bc3c2d92d7e1f0a33e3c78630e9d4d"
+metafile = true
+
+[[files]]
 file = "mods/model-gap-fix.pw.toml"
 hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
