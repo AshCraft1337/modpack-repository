@@ -884,6 +884,16 @@ hash = "cedad7783a39b743dee74a7bb4035dc865e9e85c656468314b642c55f1f0e97d"
 metafile = true
 
 [[files]]
+file = "mods/radical-cobblemon-trainers-api.pw.toml"
+hash = "093e087f4d8556639db0f07a3a3941c8c9fd1999f31cd7629c2c09cf35d03fee"
+metafile = true
+
+[[files]]
+file = "mods/rctmod.pw.toml"
+hash = "85e7e4a85e3cccf8fbd15919278438966910c64f0f63eae996ddb03c46f3bf2b"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6a48780ffd4bc3b941f81232c84034aba5ff7645ea635c604de6df71e6596bb3"
 metafile = true
