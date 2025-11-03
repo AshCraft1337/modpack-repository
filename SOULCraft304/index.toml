@@ -60,11 +60,6 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
-file = "mods/arphex.pw.toml"
-hash = "61997a52706d7e4a9a4775ded386c5963be9e3d6cdce2087efc31b96a78a9ab7"
-metafile = true
-
-[[files]]
 file = "mods/atlas-core.pw.toml"
 hash = "32fc8e625ba37798c6a205c320a986a8264160fb7f74ab3af2b071a32f2c12c7"
 metafile = true
@@ -132,11 +127,6 @@ metafile = true
 [[files]]
 file = "mods/catalogue.pw.toml"
 hash = "98db626859ef290e5f7be9084d9f8a4b93ef441a8762ff08cebcf36308b36225"
-metafile = true
-
-[[files]]
-file = "mods/cave-dweller-reevolved.pw.toml"
-hash = "d24105d2b0bfe7282d3eb4656e3a4988c3e25105ea18b6527d6967512877111e"
 metafile = true
 
 [[files]]
@@ -754,11 +744,6 @@ hash = "0d91deecad08470ff066b4ae66b6f83919638787106437df584f27d7bed4985c"
 metafile = true
 
 [[files]]
-file = "mods/monster-plus.pw.toml"
-hash = "6414dc27042681277c29b877ff54567b500a0e520bcc9e589a8e25f5163ec328"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers-re-employed.pw.toml"
 hash = "729c7821919b9e17d83cbf8b8c59b6107527d4b5e2e5cbb1608fe2aee458f872"
 metafile = true
@@ -846,11 +831,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
-metafile = true
-
-[[files]]
-file = "mods/personal-intermediate-groink.pw.toml"
-hash = "8b548c9e6020160976a190188c1895ce2e99f47025d5bb6656a79866891b91ec"
 metafile = true
 
 [[files]]
@@ -1116,9 +1096,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-api-neoforge.pw.toml"
 hash = "80f8b077b7fc1adfd2f895d79d004e09099b6ed5eaf9e8b0c7cd42759d8c18dd"
-metafile = true
-
-[[files]]
-file = "mods/zoniex.pw.toml"
-hash = "320439675f8678076ee4292a9c33288f7b72c0cd1104dcee41ae813dde6d751a"
 metafile = true
