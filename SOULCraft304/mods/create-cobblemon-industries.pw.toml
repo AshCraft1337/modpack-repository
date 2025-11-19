@@ -1,0 +1,13 @@
+name = "Cobblemon: Create Industries (3D Production Models)"
+filename = "cobblemon_industries-neoforge-1.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "36b8cb220aa8eb8c2defc1cdc51924e9d39c7e61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7221715
+project-id = 1263211

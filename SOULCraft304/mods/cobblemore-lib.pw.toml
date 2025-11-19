@@ -1,0 +1,13 @@
+name = "Cobblemore Lib"
+filename = "cobblemore_lib-neoforge-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b0633d9750a7f832a2e55f9ccaa8089a0ef1ecc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7221707
+project-id = 1275153

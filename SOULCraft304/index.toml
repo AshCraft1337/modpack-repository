@@ -145,6 +145,16 @@ hash = "184a5eb293a6eef159e1dd871c486df85bc2597051775366940cc7510971c62a"
 metafile = true
 
 [[files]]
+file = "mods/cobbledollars.pw.toml"
+hash = "fbaf4c858eef6ee880fd222fb17698ad069c8f3587184484b63cbe5fe27bc631"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-box-link.pw.toml"
+hash = "3a7fda842b0ccd76880b2c068c860e6f6efc1d1ded98a2affc27423b66ff04ce"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
 hash = "0854b6f19f64d03ceb85d7679b85b4caf2aa77353b9955d0a2b2baeff356bf2a"
 metafile = true
@@ -197,6 +207,11 @@ metafile = true
 [[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "a292645eacc6a5e6a322796a436c4fb48af0fd4e0212eb3221f13f31785d44d3"
+metafile = true
+
+[[files]]
+file = "mods/cobblemore-lib.pw.toml"
+hash = "f8882656c95d7b0c5bc92d1f48779e3a2d7b4eac2862b40875a3162704d0f10a"
 metafile = true
 
 [[files]]
@@ -282,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "56c2bb3b6bae10390869517db11d3f21ee86727349b550c2e7495bc530454481"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblemon-industries.pw.toml"
+hash = "cdce80e852120495ddf1644147972ad62645babb5a255ea232729f6729fb77c2"
 metafile = true
 
 [[files]]
@@ -477,11 +497,6 @@ metafile = true
 [[files]]
 file = "mods/figura-0.1.5+1.21.1-neoforge-mc.jar"
 hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
-
-[[files]]
-file = "mods/firefly-bush.pw.toml"
-hash = "1fc9714c3d81d1bd49067105136429c8141733d19c800e31ae4df28afb670be0"
-metafile = true
 
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
@@ -840,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/platform.pw.toml"
-hash = "58992066f622dfee52a6ed7ad835e461c88ac64f485ef20b0d8662871abe0c3f"
+hash = "1264a43ce919f188661443bd959cdebb4be04ce70a2965835043c2b18cae730e"
 metafile = true
 
 [[files]]
@@ -1060,7 +1075,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "e6f77a7e8990c5a7759ad9fb3d524b12ae49b169f544a0a5f19984851122b134"
+hash = "4dda7b774a3f817a60d467c68654430575f5e68908258e1212371dc171e1363e"
 metafile = true
 
 [[files]]
