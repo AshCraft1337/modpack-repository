@@ -984,6 +984,11 @@ hash = "f19e54e85b2e23c61035f574044ffd9c6578906dddf9b4c5e0bf29014b07dc2b"
 metafile = true
 
 [[files]]
+file = "mods/simply-light.pw.toml"
+hash = "64faee9ca0fb7655cf90fde3e5abc93f38f43faf4fb3c6dd328ca90ce764c247"
+metafile = true
+
+[[files]]
 file = "mods/simply-tools.pw.toml"
 hash = "81466a2e638159345c7ea89807909f5784ce1a6797e61c834df48ce909914505"
 metafile = true
