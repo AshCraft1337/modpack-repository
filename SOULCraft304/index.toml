@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "3a8fde620541de4b309581e29a7389a7ccead997f013126e1a01af8126f5e121"
+hash = "fbeaa224d875ed759b3e364df5d0f60928a26b3daa4e370c3e2c3841b398194a"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mega-showdown.pw.toml"
-hash = "6862229e5c652f839ab7d504bf285cbc64c354e50cad126bc7d63b137c40b491"
+hash = "43e7a9bca25cf05f3836a5a147e191b22498d769e35ef008abdfb21d1d5fbc33"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "c69b589b46ceb7bbaf883f2c44ad07bcdb48224dfdfd01ae9d1a4e3249bdd7ed"
+hash = "08f03cb6f04b9680b9f9d63dbad366a3e58464e147c6be20239aed9d3aa8ea22"
 metafile = true
 
 [[files]]
 file = "mods/cobblemon-tim-core.pw.toml"
-hash = "3b3a6761494abdcd62c5e07981e0b26f539f21d318e9345a6bbc048e69c4be03"
+hash = "6c1b93810d0ae28f4ad3e5e179a9745756b2e00ab5c412eef44df7f8212bbe8c"
 metafile = true
 
 [[files]]
@@ -216,17 +216,17 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "a43384e687c9e565588ade9b39be1dd58e6686b564275a1bace1fac8b7b84d5e"
+hash = "32ac4c34834d69292990fdd1c04bc10f26de3f8445a92fd32744a2d520c7eb83"
 metafile = true
 
 [[files]]
 file = "mods/cobblemore-lib.pw.toml"
-hash = "f8882656c95d7b0c5bc92d1f48779e3a2d7b4eac2862b40875a3162704d0f10a"
+hash = "8daae52ebcb9eae0d2dfb94dda1c26e986882c536df6f48690d1f2cfde29087c"
 metafile = true
 
 [[files]]
 file = "mods/cobblepedia.pw.toml"
-hash = "c26e7e111042f57fc7bb59baaa21fae93d56057fe00618a24b59c0141be24194"
+hash = "f0989f93e80cbaaa051ca0737118efc7850ef48a75912053e67a9f937e442626"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/rctmod.pw.toml"
-hash = "341d44fde0dbe0f8094c05a366bcfc9cc254eba6da9907414c27030a6dfa4b05"
+hash = "3ff067de381e3fe8471e56bdca58d3266158315c0ec3f513fcbcbf31409f9d65"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/tomtarus-cobblemon-farmers-delight-tweaks.pw.toml"
-hash = "713256481eb9167065174d9e5a6d86c493f3e107ad6dcab2543777cc5b370522"
+hash = "0d82fbb136639a9db7d5d2fa3281318ac666f071326dc1ccc763f97388fc516f"
 metafile = true
 
 [[files]]

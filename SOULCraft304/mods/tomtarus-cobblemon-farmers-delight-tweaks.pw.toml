@@ -1,13 +1,13 @@
 name = "Tomtaru's Cobblemon & Farmer's Delight Tweaks"
-filename = "Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.4.jar"
+filename = "Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d8a098db850fe455bcee9d8423d190c918a15685"
+hash = "2f69a92167cd28e48988178a9649a492959f966a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7257460
+file-id = 7278393
 project-id = 930346
