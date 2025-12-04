@@ -220,11 +220,6 @@ hash = "32ac4c34834d69292990fdd1c04bc10f26de3f8445a92fd32744a2d520c7eb83"
 metafile = true
 
 [[files]]
-file = "mods/cobblemore-lib.pw.toml"
-hash = "8daae52ebcb9eae0d2dfb94dda1c26e986882c536df6f48690d1f2cfde29087c"
-metafile = true
-
-[[files]]
 file = "mods/cobblepedia.pw.toml"
 hash = "f0989f93e80cbaaa051ca0737118efc7850ef48a75912053e67a9f937e442626"
 metafile = true
@@ -312,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "56c2bb3b6bae10390869517db11d3f21ee86727349b550c2e7495bc530454481"
-metafile = true
-
-[[files]]
-file = "mods/create-cobblemon-industries.pw.toml"
-hash = "cdce80e852120495ddf1644147972ad62645babb5a255ea232729f6729fb77c2"
 metafile = true
 
 [[files]]
@@ -626,6 +616,11 @@ metafile = true
 [[files]]
 file = "mods/insane-tnt.pw.toml"
 hash = "8bcbcd5ea30e8d5809cb737d5bd25f59816e859061df303d9342e104d061c622"
+metafile = true
+
+[[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "245b3a0a45999a9d05c63bc5a060f5fa15dda4dda054846531de9165866ed0f2"
 metafile = true
 
 [[files]]
