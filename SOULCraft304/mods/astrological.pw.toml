@@ -1,0 +1,13 @@
+name = "Astrological (End Terrain & Biomes)"
+filename = "astrological-1.21.1-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98a83fbab02c9a9f4df5dcf52d1b648e6905308a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6526524
+project-id = 634780
