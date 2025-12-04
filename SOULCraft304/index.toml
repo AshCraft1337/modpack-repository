@@ -599,11 +599,6 @@ hash = "94f45c1bac3bf099a8ec4c213a45178b493500f18b12d716274711179771ec72"
 metafile = true
 
 [[files]]
-file = "mods/hyrule-terrors.pw.toml"
-hash = "1c4040ead246ee2512a3bdcff82cc46e3ae30d12da19bdc710e651f2f0ecb2ad"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "4a86edd7760d87df421ffb0a37540944f5e3b63c4e7e1c367f32d0f31985c090"
 metafile = true
