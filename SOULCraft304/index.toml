@@ -884,6 +884,11 @@ hash = "b7fec81bc4939896a1feb78c16cb17fd3140092e7ceca993bf982387e6b7bdca"
 metafile = true
 
 [[files]]
+file = "mods/phantasm.pw.toml"
+hash = "eec0fd0db7812cd12cdac91cd26e0531806f210bbb770b6cc71616e0cc225255"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
