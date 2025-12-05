@@ -75,11 +75,6 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
-file = "mods/astrological.pw.toml"
-hash = "dafe52e5c820d75c2f9259f835a1c29b5bc579240f9dccca328fc8df851d6534"
-metafile = true
-
-[[files]]
 file = "mods/atlas-core.pw.toml"
 hash = "32fc8e625ba37798c6a205c320a986a8264160fb7f74ab3af2b071a32f2c12c7"
 metafile = true
@@ -1121,6 +1116,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "1416c0bbab07aab5ca91b2fae8a8a6cfc48db78687c500b292885c42eb1b004c"
+metafile = true
+
+[[files]]
+file = "mods/unusual-end.pw.toml"
+hash = "3021efddec41adfdb004ad607e5385edd7c73c4578507dd73edebade7e0a0b27"
 metafile = true
 
 [[files]]
