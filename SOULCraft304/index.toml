@@ -370,6 +370,11 @@ hash = "1070f0faa541f5be34e84140f981d12e08d6d4ee753a7b0b0938c3b8760b2bd2"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "28f410bd2b2ccdd07d537c317d33a755eb86fdacfb90ce2843abb8ce7dbab834"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "29ae44de786e60c21b9f50555f71087ef8c9251ea985a95e712e347e4fbecd4e"
 metafile = true
@@ -1140,12 +1145,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "39f4793a2bf31b80e319b7c4d04e0d90cfc9203bf9d0591e613f4f3468080569"
+hash = "c5cfc15522e92bb9a5fc3e56f38b72a935f65298236df10fbbc1aec2fd7a5203"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "a855e5e3d016704c35c8c2f8bcced00c5b587d8a07fbb261cdaee27e29ed8047"
+hash = "0528731743be7df4ba5a8952264861920f90475ed333f914fddea75473cd6012"
 metafile = true
 
 [[files]]
