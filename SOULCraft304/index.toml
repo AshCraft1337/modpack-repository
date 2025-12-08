@@ -785,7 +785,7 @@ metafile = true
 
 [[files]]
 file = "mods/mod-primal.pw.toml"
-hash = "bfcc876ad841b13a62d98d8e130bf3dca8bc3c2d92d7e1f0a33e3c78630e9d4d"
+hash = "c9b9c64deb8b1248ddeafaaba672a67c572f3a5a299e7152c1a94b3a7d8e206f"
 metafile = true
 
 [[files]]
