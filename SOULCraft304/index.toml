@@ -734,6 +734,11 @@ hash = "703a684aa7718959808f570013345d150bc83b6753743275d01fb94475d318ad"
 metafile = true
 
 [[files]]
+file = "mods/macaws-holidays.pw.toml"
+hash = "8acade436959fe60ecc938e9474eaf07935ac842f86137f5e37c39a50c193cad"
+metafile = true
+
+[[files]]
 file = "mods/magnesium-extras.pw.toml"
 hash = "af6b190e42b601eb0e2ca6fd58209f0242ab8c403996f1814956a6699dcd4f86"
 metafile = true
@@ -1161,6 +1166,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "61387d427f7c5bfd71df275f731384b70ae12f6b1e520ee9e232ae8c175d42bd"
+metafile = true
+
+[[files]]
+file = "mods/winterly.pw.toml"
+hash = "34c79089355f9961e53fd7db06f106f03a077ec62605b0d61d0e686ab4c6e289"
 metafile = true
 
 [[files]]
